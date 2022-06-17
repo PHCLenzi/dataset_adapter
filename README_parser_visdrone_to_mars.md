@@ -79,7 +79,7 @@ Notably, if a human maintains standing pose or walking, we classify it as pedest
 
 # Algorithm of building a dataset using the MARS structure with the visdrone images
 
-## 1. Excluded unnecessary info from VisDroneDS description txt
+## 1. Excluded unnecessary info from VisDroneDS description txt 
 
 Exclude the last 4 information (accuracy, occlusion...) of "uav000NUMBER_00NUMBER_v.txt" (folders in /home/hg128004/VisDroneDataSet/VisDrone2019-MOT-train/annotations/...)
 
